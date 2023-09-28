@@ -1,0 +1,35 @@
+{
+  "name": "tacticalmap-p83",
+  "id": "tacticalmap-p83",
+  "title": "Winding street",
+  "description": "A branched city street, as well as a map of the road through the forest. Roofs included.",
+  "author": "Tactical Master",
+  "authors": [],
+  "url": "https://www.patreon.com/tacticalmap",
+  "flags": {},
+  "version": "1.0",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "11",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "name": "winding-street",
+      "label": "Winding street",
+      "path": "packs/winding-street.db",
+      "type": "Scene",
+	  "entity": "Scene",
+      "module": "winding-street",
+      "private": false
+    }
+  ],
+  "system": [],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "",
+  "download": "",
+  "protected": false,
+  "coreTranslation": false
+}
